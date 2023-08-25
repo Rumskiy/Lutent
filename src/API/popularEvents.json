@@ -1,0 +1,38 @@
+[
+  {
+    "eventsID": 0,
+    "img": "none",
+    "reaction": 1,
+    "nameEvent": "9th Lutsk Ethereum Meetup",
+    "date": "12/01/2023",
+    "time": "19:00",
+    "address": "Voli,50",
+    "price": "0",
+    "userID": "1",
+    "followers": "24000"
+  },
+  {
+    "eventsID": 1,
+    "img": "none",
+    "reaction": 0,
+    "nameEvent": "DAYZERO",
+    "date": "12/01/2023",
+    "time": "19:00",
+    "address": "Online",
+    "price": "0",
+    "userID": "3",
+    "followers": "12000"
+  },
+  {
+    "eventsID": 2,
+    "img": "none",
+    "reaction": 1,
+    "nameEvent": "9th Lutsk Ethereum Meetup",
+    "date": "12/01/2023",
+    "time": "19:00",
+    "address": "Voli,50",
+    "price": "0",
+    "userID": "1",
+    "followers": "12000"
+  }
+]

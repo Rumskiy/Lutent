@@ -1,0 +1,20 @@
+@import './src/assets/scss/index';
+
+.container {
+    padding: 0px 88px;
+}
+
+.header {
+    background-color: $color-bg-50;
+
+    &__wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__h1 {
+        font-weight: 500;
+        font-size: 60px;
+        text-transform: uppercase;
+    }
+}

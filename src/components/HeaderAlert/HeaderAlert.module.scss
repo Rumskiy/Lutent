@@ -1,0 +1,33 @@
+.container {
+    padding: 0px 88px;
+}
+
+.message {
+    background-color: #444A58;
+
+    &__wrapper {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 24px;
+    }
+
+    &__p {
+        color: #fff;
+    }
+
+    &__link {
+        color: #BCBCFF;
+    }
+
+    &__item {
+        position: absolute;
+        top: 15px;
+        right: 88px;
+        &__btn{
+            background: none;
+            border: none;
+        }
+    }
+}
